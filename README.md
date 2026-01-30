@@ -67,7 +67,7 @@ dotnet restore
 # - Password (si usas autenticación SQL)
 
 # Ejecutar el backend
-dotnet run
+dotnet run o CTRL + F5
 
 
 El backend del API estará disponible en:
@@ -139,3 +139,11 @@ server: { port: 3000 }
 # Cambiar puerto en launchSettings.json
 "applicationUrl": "http://localhost:NUEVO_PUERTO"
 ```
+
+### API WEB
+
+<img width="1344" height="637" alt="Captura de pantalla 2026-01-30 004659" src="https://github.com/user-attachments/assets/81285f24-a0b2-4da9-a5ef-6df2b1b2423d" />
+
+### INTERFAZ WEB
+
+<img width="1176" height="628" alt="Captura de pantalla dddd" src="https://github.com/user-attachments/assets/88a06ade-067c-462a-9427-5663a4895715" />
