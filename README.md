@@ -71,7 +71,6 @@ dotnet run o CTRL + F5
 
 
 El backend del API estará disponible en:
-- 🌐 HTTP: `http://localhost:5122`
 - 📖 Swagger: `http://localhost:5122/swagger`
 
 
